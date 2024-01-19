@@ -1,0 +1,6 @@
+.category {
+    display: block;
+    padding: 10px;
+    border: solid 1px lightgrey;
+    text-align: center;
+}
